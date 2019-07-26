@@ -54,6 +54,7 @@ A format translator used for object detection label translation, which could tra
      ```
 	 
 **`valid.txt`**
+
 	```bash
 	/home/users/../code/ILSVRC2015/Data/VID/val/ILSVRC2015_val_00138000/000247.JPEG
 	/home/users/../code/ILSVRC2015/Data/VID/val/ILSVRC2015_val_00138000/000078.JPEG
